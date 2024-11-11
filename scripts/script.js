@@ -1,6 +1,6 @@
 // configuration
 var quote = "I wish your birthday is the happiest..."
-var birthdaywishee = "Happy Birthday, Michael!"
+var birthdaywishee = "Happy Birthday"
 var birthdaywisher = "- Sibgha Rehman"
 
 if (quote.length > 50) {
